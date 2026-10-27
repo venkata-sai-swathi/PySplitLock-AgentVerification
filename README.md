@@ -12,7 +12,7 @@
 ## Quick Start
 
 ```bash
-git clone [https://github.com/swathi420/pysplitlock.git](https://github.com/swathi420/pysplitlock.git)
+git clone https://github.com/venkata-sai-swathi/PySplitLock-AgentVerification.git
 cd pysplitlock
 pip install -e .
 python run_benchmarks.py
